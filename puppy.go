@@ -1,4 +1,4 @@
-package ppackage
+package puppy
 
 import "fmt"
 
