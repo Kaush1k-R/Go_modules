@@ -1,11 +1,9 @@
 package Go_modules
 
-import "fmt"
-
-func Bark() {
-	fmt.Println("Woof!")
+func Bark() string {
+	return "Woof!"
 }
 
-func Barks() {
-	fmt.Println("Woof! Woof! Woof!")
+func Barks() string {
+	return "Woof! Woof! Woof!"
 }
